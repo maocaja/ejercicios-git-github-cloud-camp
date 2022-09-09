@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hola desde el archivo ejemplo.sh"
+echo "Hola desde el archivo Ejemplo.sh"
